@@ -34,4 +34,4 @@ describe('links are visible', () => {
     expect(getByTestId('about')).toHaveTextContent('About me');
   });
 
-})
+});
