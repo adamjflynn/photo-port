@@ -11,6 +11,6 @@ function Gallery(props) {
       <PhotoList category={currentCategory.name} />
     </section>
   );
-}
+};
 
 export default Gallery;
